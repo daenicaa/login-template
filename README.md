@@ -2,7 +2,7 @@
 
 a login template using Bootstrap Alpha 4
 
-##Dependencies
+Dependencies
   - Jquery
   - Font Awesome
   - Bootstrap
